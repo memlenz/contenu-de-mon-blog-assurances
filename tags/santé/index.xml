@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Santé on ComparAssur</title>
-        <link>https://example.com/tags/sant%C3%A9/</link>
+        <link>http://localhost:1313/tags/sant%C3%A9/</link>
         <description>Recent content in Santé on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sant%C3%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sant%C3%A9/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Sérénité – Une retraite paisible et protégée</title>
-        <link>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
+        <link>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
-        <description>&lt;img src="https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
 Elle allie &lt;strong&gt;épargne progressive&lt;/strong&gt; et &lt;strong&gt;couverture sanitaire&lt;/strong&gt; afin de vous garantir sécurité, stabilité et confort au moment où vous en aurez le plus besoin.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-sérénité-&#34;&gt;👥 À qui s’adresse AFG Sérénité ?

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Retraite on ComparAssur</title>
-        <link>https://example.com/tags/retraite/</link>
+        <link>http://localhost:1313/tags/retraite/</link>
         <description>Recent content in Retraite on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/retraite/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/retraite/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Retraite Complémentaire</title>
-        <link>https://example.com/p/afg-retraite-compl%C3%A9mentaire/</link>
+        <link>http://localhost:1313/p/afg-retraite-compl%C3%A9mentaire/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-retraite-compl%C3%A9mentaire/</guid>
-        <description>&lt;img src="https://example.com/p/afg-retraite-compl%C3%A9mentaire/afg-retraite-complementaire.png" alt="Featured image of post AFG Retraite Complémentaire" /&gt;&lt;h2 id=&#34;présentation-du-produit&#34;&gt;Présentation du produit
+        <guid>http://localhost:1313/p/afg-retraite-compl%C3%A9mentaire/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-retraite-compl%C3%A9mentaire/afg-retraite-complementaire.png" alt="Featured image of post AFG Retraite Complémentaire" /&gt;&lt;h2 id=&#34;présentation-du-produit&#34;&gt;Présentation du produit
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;AFG Retraite Complémentaire (AFG RC)&lt;/strong&gt; est un contrat d’assurance vie collectif destiné aux &lt;strong&gt;membres du personnel d’une entreprise&lt;/strong&gt;.&lt;br&gt;
 Il permet à chaque salarié de se constituer, tout au long de sa carrière, &lt;strong&gt;un capital ou un complément de retraite&lt;/strong&gt; en vue de son départ de l’entreprise ou de sa retraite.&lt;/p&gt;
 &lt;p&gt;L’objectif principal du produit est de &lt;strong&gt;sécuriser l’avenir financier des employés&lt;/strong&gt; tout en renforçant la politique sociale de l’entreprise.&lt;/p&gt;
@@ -103,11 +103,11 @@ C’est un &lt;strong&gt;levier de stabilité et de motivation&lt;/strong&gt; po
         </item>
         <item>
         <title>AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir</title>
-        <link>https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</link>
+        <link>http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</guid>
-        <description>&lt;img src="https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/afg-dokun-tche.png" alt="Featured image of post AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Dɔkun Tché&lt;/strong&gt; est une solution d’épargne et de prévoyance proposée par &lt;strong&gt;AFG Assurance&lt;/strong&gt;.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/afg-dokun-tche.png" alt="Featured image of post AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Dɔkun Tché&lt;/strong&gt; est une solution d’épargne et de prévoyance proposée par &lt;strong&gt;AFG Assurance&lt;/strong&gt;.&lt;br&gt;
 Elle permet à chacun de &lt;strong&gt;constituer un capital personnel&lt;/strong&gt; tout en bénéficiant d’une &lt;strong&gt;protection en cas de décès ou d’invalidité&lt;/strong&gt;.&lt;br&gt;
 Accessible dès 18 ans, elle allie &lt;strong&gt;rentabilité, sécurité et flexibilité&lt;/strong&gt;, pour accompagner vos projets à chaque étape de la vie.&lt;/p&gt;
 &lt;hr&gt;
@@ -230,11 +230,11 @@ Les montants et taux mentionnés peuvent varier selon les conditions d’adhési
         </item>
         <item>
         <title>AFG Horizon Retraite – L’assurance pour préparer une retraite sereine</title>
-        <link>https://example.com/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</link>
+        <link>http://localhost:1313/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</guid>
-        <description>&lt;img src="https://example.com/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/afg-horizon-retraite.jpg" alt="Featured image of post AFG Horizon Retraite – L’assurance pour préparer une retraite sereine" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Horizon Retraite&lt;/strong&gt; est un contrat d’assurance-vie conçu pour accompagner chaque travailleur dans la préparation d’une &lt;strong&gt;retraite paisible et financièrement stable&lt;/strong&gt;.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/afg-horizon-retraite.jpg" alt="Featured image of post AFG Horizon Retraite – L’assurance pour préparer une retraite sereine" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Horizon Retraite&lt;/strong&gt; est un contrat d’assurance-vie conçu pour accompagner chaque travailleur dans la préparation d’une &lt;strong&gt;retraite paisible et financièrement stable&lt;/strong&gt;.&lt;br&gt;
 Elle permet de constituer progressivement un capital ou un revenu complémentaire, tout en offrant des garanties de sécurité et de flexibilité adaptées à la réalité béninoise.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-horizon-retraite-&#34;&gt;🎯 À qui s’adresse AFG Horizon Retraite ?
@@ -345,11 +345,11 @@ Les conditions définitives sont celles figurant dans le &lt;strong&gt;contrat s
         </item>
         <item>
         <title>AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière</title>
-        <link>https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</link>
+        <link>http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</guid>
-        <description>&lt;img src="https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/afg-ifc.png" alt="Featured image of post AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière" /&gt;&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; est une solution de financement stratégique proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;, permettant aux entreprises de maîtriser et d’anticiper leurs engagements sociaux liés aux départs à la retraite, aux licenciements et aux décès de leurs employés.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/afg-ifc.png" alt="Featured image of post AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière" /&gt;&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; est une solution de financement stratégique proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;, permettant aux entreprises de maîtriser et d’anticiper leurs engagements sociaux liés aux départs à la retraite, aux licenciements et aux décès de leurs employés.&lt;br&gt;
 C’est un outil essentiel pour une &lt;strong&gt;gestion budgétaire prévisible, optimisée et conforme à la législation&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-ifc-&#34;&gt;👥 À qui s’adresse AFG IFC ?
@@ -441,11 +441,11 @@ Avec &lt;strong&gt;AFG IFC&lt;/strong&gt;, vous transformez une contrainte léga
         </item>
         <item>
         <title>AFG Sérénité – Une retraite paisible et protégée</title>
-        <link>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
+        <link>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
-        <description>&lt;img src="https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
 Elle allie &lt;strong&gt;épargne progressive&lt;/strong&gt; et &lt;strong&gt;couverture sanitaire&lt;/strong&gt; afin de vous garantir sécurité, stabilité et confort au moment où vous en aurez le plus besoin.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-sérénité-&#34;&gt;👥 À qui s’adresse AFG Sérénité ?

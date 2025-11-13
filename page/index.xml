@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on ComparAssur</title>
-        <link>https://example.com/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
-        <description>&lt;img src="https://example.com/about/avatar.png" alt="Featured image of post About" /&gt;&lt;h3 id=&#34;pourquoi-comparassur-est-né&#34;&gt;&lt;strong&gt;Pourquoi ComparAssur est né&lt;/strong&gt;
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;img src="http://localhost:1313/about/avatar.png" alt="Featured image of post About" /&gt;&lt;h3 id=&#34;pourquoi-comparassur-est-né&#34;&gt;&lt;strong&gt;Pourquoi ComparAssur est né&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Dans un marché où l’information sur les produits d’assurance est souvent dispersée, technique et difficile à comprendre, &lt;strong&gt;ComparAssur&lt;/strong&gt; est né d’une conviction simple : chaque citoyen mérite de &lt;strong&gt;comprendre avant de s’engager&lt;/strong&gt;.
 Notre mission est d’aider chacun à comparer, comprendre et choisir librement les offres d’assurance disponibles, sans influence ni affiliation exclusive.&lt;/p&gt;
 &lt;hr&gt;
@@ -41,7 +41,7 @@ Vous pouvez à tout moment consulter, modifier ou supprimer vos informations dan
 &lt;hr&gt;
 &lt;h3 id=&#34;contribuer-ou-collaborer&#34;&gt;&lt;strong&gt;Contribuer ou collaborer&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Vous représentez une compagnie d’assurance, un courtier, ou souhaitez contribuer à notre mission d’éducation financière ?
-Contactez-nous à &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:partenariats@comparassur.bj&#34; &gt;partenariats@comparassur.bj&lt;/a&gt;&lt;/strong&gt; ou consultez notre section &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://example.com/contact/&#34; &gt;Contact&lt;/a&gt;&lt;/strong&gt; pour en savoir plus.&lt;/p&gt;
+Contactez-nous à &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:partenariats@comparassur.bj&#34; &gt;partenariats@comparassur.bj&lt;/a&gt;&lt;/strong&gt; ou consultez notre section &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;Contact&lt;/a&gt;&lt;/strong&gt; pour en savoir plus.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;en-résumé&#34;&gt;&lt;strong&gt;En résumé&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; est un projet indépendant, né pour rétablir la confiance entre les assurés et les assureurs, en mettant &lt;strong&gt;la connaissance au centre de la décision&lt;/strong&gt;.&lt;/p&gt;
@@ -50,10 +50,10 @@ Contactez-nous à &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:part
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         

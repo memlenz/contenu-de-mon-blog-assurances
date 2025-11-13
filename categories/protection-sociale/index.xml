@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Protection Sociale on ComparAssur</title>
-        <link>https://example.com/categories/protection-sociale/</link>
+        <link>http://localhost:1313/categories/protection-sociale/</link>
         <description>Recent content in Protection Sociale on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/protection-sociale/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/protection-sociale/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Prévoyance Familiale</title>
-        <link>https://example.com/p/afg-pr%C3%A9voyance-familiale/</link>
+        <link>http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-pr%C3%A9voyance-familiale/</guid>
-        <description>&lt;img src="https://example.com/p/afg-pr%C3%A9voyance-familiale/afg-prevoyance-familiale.png" alt="Featured image of post AFG Prévoyance Familiale" /&gt;&lt;p&gt;&lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; est une solution d’assurance vie pensée pour protéger vos proches face aux imprévus de la vie.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/afg-prevoyance-familiale.png" alt="Featured image of post AFG Prévoyance Familiale" /&gt;&lt;p&gt;&lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; est une solution d’assurance vie pensée pour protéger vos proches face aux imprévus de la vie.&lt;br&gt;
 Elle garantit le versement d’un &lt;strong&gt;capital en cas de décès&lt;/strong&gt; ou d’&lt;strong&gt;invalidité absolue et définitive&lt;/strong&gt;, permettant ainsi de préserver la stabilité financière de la famille ou des bénéficiaires désignés.&lt;br&gt;
 Ce contrat s’adresse aussi bien aux particuliers qu’aux entreprises souhaitant offrir une couverture sociale à leurs employés.&lt;/p&gt;
 &lt;hr&gt;

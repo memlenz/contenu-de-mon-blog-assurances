@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Legals on ComparAssur</title>
-        <link>https://example.com/legal/</link>
+        <link>http://localhost:1313/legal/</link>
         <description>Recent content in Legals on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/legal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/legal/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Politique de confidentialité</title>
-        <link>https://example.com/legal/privacy-policy/</link>
+        <link>http://localhost:1313/legal/privacy-policy/</link>
         <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/legal/privacy-policy/</guid>
+        <guid>http://localhost:1313/legal/privacy-policy/</guid>
         <description>&lt;h1 id=&#34;politique-de-confidentialité-de-comparassur&#34;&gt;Politique de confidentialité de &lt;strong&gt;ComparAssur&lt;/strong&gt;
 &lt;/h1&gt;&lt;p&gt;Dernière mise à jour : 10 novembre 2025&lt;/p&gt;
 &lt;hr&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Assurance on ComparAssur</title>
-        <link>https://example.com/categories/assurance/</link>
+        <link>http://localhost:1313/categories/assurance/</link>
         <description>Recent content in Assurance on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/assurance/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/assurance/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Assistance Obsèques</title>
-        <link>https://example.com/p/afg-assistance-obs%C3%A8ques/</link>
+        <link>http://localhost:1313/p/afg-assistance-obs%C3%A8ques/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-assistance-obs%C3%A8ques/</guid>
-        <description>&lt;img src="https://example.com/p/afg-assistance-obs%C3%A8ques/afg-assistance-obseques.jpg" alt="Featured image of post AFG Assistance Obsèques" /&gt;&lt;p&gt;AFG Assistance Obsèques est une solution d’assurance vie conçue pour soulager le poids financier des obsèques.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-assistance-obs%C3%A8ques/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-assistance-obs%C3%A8ques/afg-assistance-obseques.jpg" alt="Featured image of post AFG Assistance Obsèques" /&gt;&lt;p&gt;AFG Assistance Obsèques est une solution d’assurance vie conçue pour soulager le poids financier des obsèques.&lt;br&gt;
 Elle vous permet de prévoir à l’avance un capital pour faire face sereinement à ces moments difficiles et d’assurer la dignité des cérémonies funéraires de vos proches.&lt;/p&gt;
 &lt;h2 id=&#34;à-qui-sadresse-ce-produit-&#34;&gt;À qui s’adresse ce produit ?
 &lt;/h2&gt;&lt;p&gt;Ce contrat est destiné à toute personne physique âgée de &lt;strong&gt;18 à 69 ans&lt;/strong&gt; au moment de la souscription.&lt;br&gt;
@@ -59,11 +59,11 @@ Avec AFG Assistance Obsèques, vous bénéficiez d’un accompagnement complet e
         </item>
         <item>
         <title>AFG AVIGBO – La micro-assurance qui protège vos proches</title>
-        <link>https://example.com/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</link>
+        <link>http://localhost:1313/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</guid>
-        <description>&lt;img src="https://example.com/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/afg-avigbo.png" alt="Featured image of post AFG AVIGBO – La micro-assurance qui protège vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG AVIGBO&lt;/strong&gt; est une solution de micro-assurance simple, accessible et solidaire.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/afg-avigbo.png" alt="Featured image of post AFG AVIGBO – La micro-assurance qui protège vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG AVIGBO&lt;/strong&gt; est une solution de micro-assurance simple, accessible et solidaire.&lt;br&gt;
 Elle vous permet d’assurer la &lt;strong&gt;sécurité financière de vos proches&lt;/strong&gt; en cas de décès ou d’invalidité totale.&lt;br&gt;
 Conçu pour s’adapter à toutes les bourses, ce produit représente une &lt;strong&gt;protection essentielle&lt;/strong&gt; pour toute personne soucieuse du bien-être de sa famille.&lt;/p&gt;
 &lt;hr&gt;
@@ -153,11 +153,11 @@ C’est une solution humaine, économique et efficace, adaptée aux réalités d
         </item>
         <item>
         <title>AFG BOUCLIER QUIÉTUDE – La protection complète pour vous et vos proches</title>
-        <link>https://example.com/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</link>
+        <link>http://localhost:1313/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</guid>
-        <description>&lt;img src="https://example.com/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/afg-bouclier-quietude.png" alt="Featured image of post AFG BOUCLIER QUIÉTUDE – La protection complète pour vous et vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG Bouclier Quiétude&lt;/strong&gt; est une solution de &lt;strong&gt;protection financière&lt;/strong&gt; pensée pour préserver vos proches face aux imprévus les plus lourds de la vie.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/afg-bouclier-quietude.png" alt="Featured image of post AFG BOUCLIER QUIÉTUDE – La protection complète pour vous et vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG Bouclier Quiétude&lt;/strong&gt; est une solution de &lt;strong&gt;protection financière&lt;/strong&gt; pensée pour préserver vos proches face aux imprévus les plus lourds de la vie.&lt;br&gt;
 Grâce à ce contrat, vous garantissez le versement d’un capital à vos bénéficiaires en cas de &lt;strong&gt;décès&lt;/strong&gt; ou d’&lt;strong&gt;invalidité absolue et définitive&lt;/strong&gt;, assurant ainsi leur stabilité économique et leur tranquillité d’esprit.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-bouclier-quiétude-&#34;&gt;👥 À qui s’adresse AFG Bouclier Quiétude ?
@@ -280,11 +280,11 @@ Ce contrat s’adapte à tous les profils et offre une couverture complète, mê
         </item>
         <item>
         <title>AFG CAPI PRESTIGE – Le placement haut de gamme sécurisé et rentable</title>
-        <link>https://example.com/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</link>
+        <link>http://localhost:1313/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</guid>
-        <description>&lt;img src="https://example.com/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/afg-capi-prestige.png" alt="Featured image of post AFG CAPI PRESTIGE – Le placement haut de gamme sécurisé et rentable" /&gt;&lt;p&gt;&lt;strong&gt;AFG CAPI PRESTIGE&lt;/strong&gt; est la solution idéale pour ceux qui souhaitent placer intelligemment leur argent tout en bénéficiant d’une &lt;strong&gt;rentabilité attractive, d’une disponibilité totale des fonds&lt;/strong&gt; et d’une &lt;strong&gt;protection complète du capital&lt;/strong&gt;.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/afg-capi-prestige.png" alt="Featured image of post AFG CAPI PRESTIGE – Le placement haut de gamme sécurisé et rentable" /&gt;&lt;p&gt;&lt;strong&gt;AFG CAPI PRESTIGE&lt;/strong&gt; est la solution idéale pour ceux qui souhaitent placer intelligemment leur argent tout en bénéficiant d’une &lt;strong&gt;rentabilité attractive, d’une disponibilité totale des fonds&lt;/strong&gt; et d’une &lt;strong&gt;protection complète du capital&lt;/strong&gt;.&lt;br&gt;
 Accessible aussi bien aux &lt;strong&gt;particuliers qu’aux entreprises&lt;/strong&gt;, ce produit combine les atouts d’un placement financier performant et la souplesse d’un contrat d’assurance vie moderne.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-capi-prestige-&#34;&gt;👥 À qui s’adresse AFG CAPI PRESTIGE ?
@@ -391,11 +391,11 @@ Vous serez guidé dans le choix du montant, de la durée et des options d’inve
         </item>
         <item>
         <title>AFG Épargne Plus</title>
-        <link>https://example.com/p/afg-%C3%A9pargne-plus/</link>
+        <link>http://localhost:1313/p/afg-%C3%A9pargne-plus/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-%C3%A9pargne-plus/</guid>
-        <description>&lt;img src="https://example.com/p/afg-%C3%A9pargne-plus/afg-epargne-plus.png" alt="Featured image of post AFG Épargne Plus" /&gt;&lt;p&gt;&lt;strong&gt;AFG Épargne Plus&lt;/strong&gt; est une solution d’assurance vie simple et flexible, conçue pour vous aider à constituer un capital solide afin de concrétiser vos projets personnels ou professionnels.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-%C3%A9pargne-plus/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-%C3%A9pargne-plus/afg-epargne-plus.png" alt="Featured image of post AFG Épargne Plus" /&gt;&lt;p&gt;&lt;strong&gt;AFG Épargne Plus&lt;/strong&gt; est une solution d’assurance vie simple et flexible, conçue pour vous aider à constituer un capital solide afin de concrétiser vos projets personnels ou professionnels.&lt;br&gt;
 Elle s’adresse à toute personne souhaitant épargner à son rythme, tout en bénéficiant d’un taux de rendement attractif et garanti.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-épargne-plus-&#34;&gt;🧩 À qui s’adresse AFG Épargne Plus ?
@@ -473,11 +473,11 @@ L’objectif est de créer un capital à moyen ou long terme, pour financer un p
         </item>
         <item>
         <title>AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière</title>
-        <link>https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</link>
+        <link>http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</guid>
-        <description>&lt;img src="https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/afg-ifc.png" alt="Featured image of post AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière" /&gt;&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; est une solution de financement stratégique proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;, permettant aux entreprises de maîtriser et d’anticiper leurs engagements sociaux liés aux départs à la retraite, aux licenciements et aux décès de leurs employés.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/afg-ifc.png" alt="Featured image of post AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière" /&gt;&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; est une solution de financement stratégique proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;, permettant aux entreprises de maîtriser et d’anticiper leurs engagements sociaux liés aux départs à la retraite, aux licenciements et aux décès de leurs employés.&lt;br&gt;
 C’est un outil essentiel pour une &lt;strong&gt;gestion budgétaire prévisible, optimisée et conforme à la législation&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-ifc-&#34;&gt;👥 À qui s’adresse AFG IFC ?
@@ -569,11 +569,11 @@ Avec &lt;strong&gt;AFG IFC&lt;/strong&gt;, vous transformez une contrainte léga
         </item>
         <item>
         <title>AFG Prévoyance Familiale</title>
-        <link>https://example.com/p/afg-pr%C3%A9voyance-familiale/</link>
+        <link>http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-pr%C3%A9voyance-familiale/</guid>
-        <description>&lt;img src="https://example.com/p/afg-pr%C3%A9voyance-familiale/afg-prevoyance-familiale.png" alt="Featured image of post AFG Prévoyance Familiale" /&gt;&lt;p&gt;&lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; est une solution d’assurance vie pensée pour protéger vos proches face aux imprévus de la vie.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/afg-prevoyance-familiale.png" alt="Featured image of post AFG Prévoyance Familiale" /&gt;&lt;p&gt;&lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; est une solution d’assurance vie pensée pour protéger vos proches face aux imprévus de la vie.&lt;br&gt;
 Elle garantit le versement d’un &lt;strong&gt;capital en cas de décès&lt;/strong&gt; ou d’&lt;strong&gt;invalidité absolue et définitive&lt;/strong&gt;, permettant ainsi de préserver la stabilité financière de la famille ou des bénéficiaires désignés.&lt;br&gt;
 Ce contrat s’adresse aussi bien aux particuliers qu’aux entreprises souhaitant offrir une couverture sociale à leurs employés.&lt;/p&gt;
 &lt;hr&gt;
@@ -692,11 +692,11 @@ C’est une solution à la fois &lt;strong&gt;humaine, simple et accessible&lt;/
         </item>
         <item>
         <title>AFG Sérénité – Une retraite paisible et protégée</title>
-        <link>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
+        <link>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
-        <description>&lt;img src="https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
 Elle allie &lt;strong&gt;épargne progressive&lt;/strong&gt; et &lt;strong&gt;couverture sanitaire&lt;/strong&gt; afin de vous garantir sécurité, stabilité et confort au moment où vous en aurez le plus besoin.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-sérénité-&#34;&gt;👥 À qui s’adresse AFG Sérénité ?
@@ -787,11 +787,11 @@ Il incarne la philosophie d’&lt;strong&gt;AFG Assurances&lt;/strong&gt; : &lt;
         </item>
         <item>
         <title>AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment</title>
-        <link>https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</link>
+        <link>http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</guid>
-        <description>&lt;img src="https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/afg-tadagbe.png" alt="Featured image of post AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment" /&gt;&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; est une formule de micro assurance innovante proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/afg-tadagbe.png" alt="Featured image of post AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment" /&gt;&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; est une formule de micro assurance innovante proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;.&lt;br&gt;
 Elle permet à chaque adhérent de se constituer une &lt;strong&gt;épargne sûre et rentable&lt;/strong&gt;, tout en bénéficiant d’une &lt;strong&gt;chance unique d’obtenir son capital par tirage au sort avant la fin du contrat&lt;/strong&gt;.&lt;br&gt;
 C’est une solution à la fois &lt;strong&gt;solidaire, sécurisée et motivante&lt;/strong&gt; pour tous ceux qui souhaitent transformer leurs revenus réguliers en un véritable projet d’avenir.&lt;/p&gt;
 &lt;hr&gt;
@@ -889,11 +889,11 @@ Vous serez accompagné dans la &lt;strong&gt;détermination du montant de vos co
         </item>
         <item>
         <title>AFG VIGNINOU – La garantie scolaire pour un avenir sans rupture</title>
-        <link>https://example.com/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</link>
+        <link>http://localhost:1313/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</guid>
-        <description>&lt;img src="https://example.com/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/afg-vigninou.png" alt="Featured image of post AFG VIGNINOU – La garantie scolaire pour un avenir sans rupture" /&gt;&lt;p&gt;&lt;strong&gt;AFG Vigninou&lt;/strong&gt; est une offre de &lt;strong&gt;micro-assurance&lt;/strong&gt; conçue pour protéger ce qu’il y a de plus précieux : l’avenir de nos enfants.&lt;br&gt;
+        <guid>http://localhost:1313/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</guid>
+        <description>&lt;img src="http://localhost:1313/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/afg-vigninou.png" alt="Featured image of post AFG VIGNINOU – La garantie scolaire pour un avenir sans rupture" /&gt;&lt;p&gt;&lt;strong&gt;AFG Vigninou&lt;/strong&gt; est une offre de &lt;strong&gt;micro-assurance&lt;/strong&gt; conçue pour protéger ce qu’il y a de plus précieux : l’avenir de nos enfants.&lt;br&gt;
 Ce contrat d’assurance vie individuel garantit le paiement des &lt;strong&gt;frais de scolarité&lt;/strong&gt; en cas de décès ou d’invalidité totale du parent ou tuteur, afin que la scolarité de l’enfant se poursuive sans interruption.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-vigninou-&#34;&gt;🎓 À qui s’adresse AFG Vigninou ?
