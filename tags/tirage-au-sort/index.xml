@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tirage Au Sort on ComparAssur</title>
-        <link>http://localhost:1313/tags/tirage-au-sort/</link>
+        <link>https://example.com/tags/tirage-au-sort/</link>
         <description>Recent content in Tirage Au Sort on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tirage-au-sort/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/tirage-au-sort/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment</title>
-        <link>http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</link>
+        <link>https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/afg-tadagbe.png" alt="Featured image of post AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment" /&gt;&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; est une formule de micro assurance innovante proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</guid>
+        <description>&lt;img src="https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/afg-tadagbe.png" alt="Featured image of post AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment" /&gt;&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; est une formule de micro assurance innovante proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;.&lt;br&gt;
 Elle permet à chaque adhérent de se constituer une &lt;strong&gt;épargne sûre et rentable&lt;/strong&gt;, tout en bénéficiant d’une &lt;strong&gt;chance unique d’obtenir son capital par tirage au sort avant la fin du contrat&lt;/strong&gt;.&lt;br&gt;
 C’est une solution à la fois &lt;strong&gt;solidaire, sécurisée et motivante&lt;/strong&gt; pour tous ceux qui souhaitent transformer leurs revenus réguliers en un véritable projet d’avenir.&lt;/p&gt;
 &lt;hr&gt;
@@ -101,13 +101,28 @@ Avec &lt;strong&gt;AFG TADAGBE&lt;/strong&gt;, vous bâtissez votre avenir tout 
 &lt;p&gt;🎯 &lt;em&gt;AFG TADAGBE – L’assurance épargne qui allie chance, sécurité et performance.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou auprès d’un partenaire agréé pour adhérer au programme &lt;strong&gt;AFG TADAGBE&lt;/strong&gt;.&lt;br&gt;
-Vous serez accompagné dans la &lt;strong&gt;détermination du montant de vos cotisations&lt;/strong&gt; et recevrez &lt;strong&gt;votre attestation d’adhésion&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; – Parce que chaque franc épargné est une opportunité de construire votre avenir… ou de le gagner plus tôt.&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         
     </channel>

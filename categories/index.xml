@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on ComparAssur</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://example.com/categories/</link>
         <description>Recent content in Categories on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Produits AFG</title>
-        <link>http://localhost:1313/categories/produits-afg/</link>
+        <link>https://example.com/categories/produits-afg/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/produits-afg/</guid>
+        <guid>https://example.com/categories/produits-afg/</guid>
         <description></description>
         </item>
         <item>
         <title>Retraite</title>
-        <link>http://localhost:1313/categories/retraite/</link>
+        <link>https://example.com/categories/retraite/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/retraite/</guid>
+        <guid>https://example.com/categories/retraite/</guid>
         <description></description>
         </item>
         <item>
         <title>Assurance</title>
-        <link>http://localhost:1313/categories/assurance/</link>
+        <link>https://example.com/categories/assurance/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/assurance/</guid>
+        <guid>https://example.com/categories/assurance/</guid>
         <description></description>
         </item>
         <item>
         <title>Assurance Éducation</title>
-        <link>http://localhost:1313/categories/assurance-%C3%A9ducation/</link>
+        <link>https://example.com/categories/assurance-%C3%A9ducation/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/assurance-%C3%A9ducation/</guid>
+        <guid>https://example.com/categories/assurance-%C3%A9ducation/</guid>
         <description></description>
         </item>
         <item>
         <title>Assurance Prévoyance</title>
-        <link>http://localhost:1313/categories/assurance-pr%C3%A9voyance/</link>
+        <link>https://example.com/categories/assurance-pr%C3%A9voyance/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/assurance-pr%C3%A9voyance/</guid>
+        <guid>https://example.com/categories/assurance-pr%C3%A9voyance/</guid>
         <description></description>
         </item>
         <item>
         <title>Assurance-Vie</title>
-        <link>http://localhost:1313/categories/assurance-vie/</link>
+        <link>https://example.com/categories/assurance-vie/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/assurance-vie/</guid>
+        <guid>https://example.com/categories/assurance-vie/</guid>
         <description></description>
         </item>
         <item>
         <title>Assurances</title>
-        <link>http://localhost:1313/categories/assurances/</link>
+        <link>https://example.com/categories/assurances/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/assurances/</guid>
+        <guid>https://example.com/categories/assurances/</guid>
         <description></description>
         </item>
         <item>
         <title>Épargne</title>
-        <link>http://localhost:1313/categories/%C3%A9pargne/</link>
+        <link>https://example.com/categories/%C3%A9pargne/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%C3%A9pargne/</guid>
+        <guid>https://example.com/categories/%C3%A9pargne/</guid>
         <description></description>
         </item>
         <item>
         <title>Épargne Et Investissement</title>
-        <link>http://localhost:1313/categories/%C3%A9pargne-et-investissement/</link>
+        <link>https://example.com/categories/%C3%A9pargne-et-investissement/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%C3%A9pargne-et-investissement/</guid>
+        <guid>https://example.com/categories/%C3%A9pargne-et-investissement/</guid>
         <description></description>
         </item>
         <item>
         <title>Famille</title>
-        <link>http://localhost:1313/categories/famille/</link>
+        <link>https://example.com/categories/famille/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/famille/</guid>
+        <guid>https://example.com/categories/famille/</guid>
         <description></description>
         </item>
         <item>
         <title>Préparation Retraite</title>
-        <link>http://localhost:1313/categories/pr%C3%A9paration-retraite/</link>
+        <link>https://example.com/categories/pr%C3%A9paration-retraite/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/pr%C3%A9paration-retraite/</guid>
+        <guid>https://example.com/categories/pr%C3%A9paration-retraite/</guid>
         <description></description>
         </item>
         <item>
         <title>Produits</title>
-        <link>http://localhost:1313/categories/produits/</link>
+        <link>https://example.com/categories/produits/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/produits/</guid>
+        <guid>https://example.com/categories/produits/</guid>
         <description></description>
         </item>
         <item>
         <title>Protection Sociale</title>
-        <link>http://localhost:1313/categories/protection-sociale/</link>
+        <link>https://example.com/categories/protection-sociale/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/protection-sociale/</guid>
+        <guid>https://example.com/categories/protection-sociale/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
+        <link>https://example.com/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://example.com/categories/test/</guid>
+        <description>&lt;img src="https://example.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>

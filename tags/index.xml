@@ -2,249 +2,249 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on ComparAssur</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://example.com/tags/</link>
         <description>Recent content in Tags on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Assurance Vie</title>
-        <link>http://localhost:1313/tags/assurance-vie/</link>
+        <link>https://example.com/tags/assurance-vie/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/assurance-vie/</guid>
+        <guid>https://example.com/tags/assurance-vie/</guid>
         <description></description>
         </item>
         <item>
         <title>CIMA</title>
-        <link>http://localhost:1313/tags/cima/</link>
+        <link>https://example.com/tags/cima/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/cima/</guid>
+        <guid>https://example.com/tags/cima/</guid>
         <description></description>
         </item>
         <item>
         <title>Entreprise</title>
-        <link>http://localhost:1313/tags/entreprise/</link>
+        <link>https://example.com/tags/entreprise/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/entreprise/</guid>
+        <guid>https://example.com/tags/entreprise/</guid>
         <description></description>
         </item>
         <item>
         <title>Épargne</title>
-        <link>http://localhost:1313/tags/%C3%A9pargne/</link>
+        <link>https://example.com/tags/%C3%A9pargne/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/%C3%A9pargne/</guid>
+        <guid>https://example.com/tags/%C3%A9pargne/</guid>
         <description></description>
         </item>
         <item>
         <title>Retraite</title>
-        <link>http://localhost:1313/tags/retraite/</link>
+        <link>https://example.com/tags/retraite/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/retraite/</guid>
+        <guid>https://example.com/tags/retraite/</guid>
         <description></description>
         </item>
         <item>
         <title>AFG</title>
-        <link>http://localhost:1313/tags/afg/</link>
+        <link>https://example.com/tags/afg/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/afg/</guid>
+        <guid>https://example.com/tags/afg/</guid>
         <description></description>
         </item>
         <item>
         <title>Assistance</title>
-        <link>http://localhost:1313/tags/assistance/</link>
+        <link>https://example.com/tags/assistance/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/assistance/</guid>
+        <guid>https://example.com/tags/assistance/</guid>
         <description></description>
         </item>
         <item>
         <title>Assurance Entreprise</title>
-        <link>http://localhost:1313/tags/assurance-entreprise/</link>
+        <link>https://example.com/tags/assurance-entreprise/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/assurance-entreprise/</guid>
+        <guid>https://example.com/tags/assurance-entreprise/</guid>
         <description></description>
         </item>
         <item>
         <title>Bénin</title>
-        <link>http://localhost:1313/tags/b%C3%A9nin/</link>
+        <link>https://example.com/tags/b%C3%A9nin/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/b%C3%A9nin/</guid>
+        <guid>https://example.com/tags/b%C3%A9nin/</guid>
         <description></description>
         </item>
         <item>
         <title>Éducation</title>
-        <link>http://localhost:1313/tags/%C3%A9ducation/</link>
+        <link>https://example.com/tags/%C3%A9ducation/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/%C3%A9ducation/</guid>
+        <guid>https://example.com/tags/%C3%A9ducation/</guid>
         <description></description>
         </item>
         <item>
         <title>Enfant</title>
-        <link>http://localhost:1313/tags/enfant/</link>
+        <link>https://example.com/tags/enfant/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/enfant/</guid>
+        <guid>https://example.com/tags/enfant/</guid>
         <description></description>
         </item>
         <item>
         <title>Épargne Solidaire</title>
-        <link>http://localhost:1313/tags/%C3%A9pargne-solidaire/</link>
+        <link>https://example.com/tags/%C3%A9pargne-solidaire/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/%C3%A9pargne-solidaire/</guid>
+        <guid>https://example.com/tags/%C3%A9pargne-solidaire/</guid>
         <description></description>
         </item>
         <item>
         <title>Famille</title>
-        <link>http://localhost:1313/tags/famille/</link>
+        <link>https://example.com/tags/famille/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/famille/</guid>
+        <guid>https://example.com/tags/famille/</guid>
         <description></description>
         </item>
         <item>
         <title>Fin De Carrière</title>
-        <link>http://localhost:1313/tags/fin-de-carri%C3%A8re/</link>
+        <link>https://example.com/tags/fin-de-carri%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/fin-de-carri%C3%A8re/</guid>
+        <guid>https://example.com/tags/fin-de-carri%C3%A8re/</guid>
         <description></description>
         </item>
         <item>
         <title>Funérailles</title>
-        <link>http://localhost:1313/tags/fun%C3%A9railles/</link>
+        <link>https://example.com/tags/fun%C3%A9railles/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/fun%C3%A9railles/</guid>
+        <guid>https://example.com/tags/fun%C3%A9railles/</guid>
         <description></description>
         </item>
         <item>
         <title>Gestion Du Passif Social</title>
-        <link>http://localhost:1313/tags/gestion-du-passif-social/</link>
+        <link>https://example.com/tags/gestion-du-passif-social/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/gestion-du-passif-social/</guid>
+        <guid>https://example.com/tags/gestion-du-passif-social/</guid>
         <description></description>
         </item>
         <item>
         <title>Investissement</title>
-        <link>http://localhost:1313/tags/investissement/</link>
+        <link>https://example.com/tags/investissement/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/investissement/</guid>
+        <guid>https://example.com/tags/investissement/</guid>
         <description></description>
         </item>
         <item>
         <title>Micro Assurance</title>
-        <link>http://localhost:1313/tags/micro-assurance/</link>
+        <link>https://example.com/tags/micro-assurance/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/micro-assurance/</guid>
+        <guid>https://example.com/tags/micro-assurance/</guid>
         <description></description>
         </item>
         <item>
         <title>Obsèques</title>
-        <link>http://localhost:1313/tags/obs%C3%A8ques/</link>
+        <link>https://example.com/tags/obs%C3%A8ques/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/obs%C3%A8ques/</guid>
+        <guid>https://example.com/tags/obs%C3%A8ques/</guid>
         <description></description>
         </item>
         <item>
         <title>Placement</title>
-        <link>http://localhost:1313/tags/placement/</link>
+        <link>https://example.com/tags/placement/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/placement/</guid>
+        <guid>https://example.com/tags/placement/</guid>
         <description></description>
         </item>
         <item>
         <title>Placement Financier</title>
-        <link>http://localhost:1313/tags/placement-financier/</link>
+        <link>https://example.com/tags/placement-financier/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/placement-financier/</guid>
+        <guid>https://example.com/tags/placement-financier/</guid>
         <description></description>
         </item>
         <item>
         <title>Prévention Financière</title>
-        <link>http://localhost:1313/tags/pr%C3%A9vention-financi%C3%A8re/</link>
+        <link>https://example.com/tags/pr%C3%A9vention-financi%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/pr%C3%A9vention-financi%C3%A8re/</guid>
+        <guid>https://example.com/tags/pr%C3%A9vention-financi%C3%A8re/</guid>
         <description></description>
         </item>
         <item>
         <title>Prévoyance</title>
-        <link>http://localhost:1313/tags/pr%C3%A9voyance/</link>
+        <link>https://example.com/tags/pr%C3%A9voyance/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/pr%C3%A9voyance/</guid>
+        <guid>https://example.com/tags/pr%C3%A9voyance/</guid>
         <description></description>
         </item>
         <item>
         <title>Projets</title>
-        <link>http://localhost:1313/tags/projets/</link>
+        <link>https://example.com/tags/projets/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/projets/</guid>
+        <guid>https://example.com/tags/projets/</guid>
         <description></description>
         </item>
         <item>
         <title>Protection</title>
-        <link>http://localhost:1313/tags/protection/</link>
+        <link>https://example.com/tags/protection/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/protection/</guid>
+        <guid>https://example.com/tags/protection/</guid>
         <description></description>
         </item>
         <item>
         <title>Protection Familiale</title>
-        <link>http://localhost:1313/tags/protection-familiale/</link>
+        <link>https://example.com/tags/protection-familiale/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/protection-familiale/</guid>
+        <guid>https://example.com/tags/protection-familiale/</guid>
         <description></description>
         </item>
         <item>
         <title>Santé</title>
-        <link>http://localhost:1313/tags/sant%C3%A9/</link>
+        <link>https://example.com/tags/sant%C3%A9/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/sant%C3%A9/</guid>
+        <guid>https://example.com/tags/sant%C3%A9/</guid>
         <description></description>
         </item>
         <item>
         <title>Sécurité Financière</title>
-        <link>http://localhost:1313/tags/s%C3%A9curit%C3%A9-financi%C3%A8re/</link>
+        <link>https://example.com/tags/s%C3%A9curit%C3%A9-financi%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/s%C3%A9curit%C3%A9-financi%C3%A8re/</guid>
+        <guid>https://example.com/tags/s%C3%A9curit%C3%A9-financi%C3%A8re/</guid>
         <description></description>
         </item>
         <item>
         <title>Succession</title>
-        <link>http://localhost:1313/tags/succession/</link>
+        <link>https://example.com/tags/succession/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/succession/</guid>
+        <guid>https://example.com/tags/succession/</guid>
         <description></description>
         </item>
         <item>
         <title>Tirage Au Sort</title>
-        <link>http://localhost:1313/tags/tirage-au-sort/</link>
+        <link>https://example.com/tags/tirage-au-sort/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/tirage-au-sort/</guid>
+        <guid>https://example.com/tags/tirage-au-sort/</guid>
         <description></description>
         </item>
         

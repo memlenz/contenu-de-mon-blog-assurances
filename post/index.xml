@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ComparAssur</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://example.com/post/</link>
         <description>Recent content in Posts on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Retraite Complémentaire</title>
-        <link>http://localhost:1313/p/afg-retraite-compl%C3%A9mentaire/</link>
+        <link>https://example.com/p/afg-retraite-compl%C3%A9mentaire/</link>
         <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-retraite-compl%C3%A9mentaire/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-retraite-compl%C3%A9mentaire/afg-retraite-complementaire.png" alt="Featured image of post AFG Retraite Complémentaire" /&gt;&lt;h2 id=&#34;présentation-du-produit&#34;&gt;Présentation du produit
+        <guid>https://example.com/p/afg-retraite-compl%C3%A9mentaire/</guid>
+        <description>&lt;img src="https://example.com/p/afg-retraite-compl%C3%A9mentaire/afg-retraite-complementaire.png" alt="Featured image of post AFG Retraite Complémentaire" /&gt;&lt;h2 id=&#34;présentation-du-produit&#34;&gt;Présentation du produit
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;AFG Retraite Complémentaire (AFG RC)&lt;/strong&gt; est un contrat d’assurance vie collectif destiné aux &lt;strong&gt;membres du personnel d’une entreprise&lt;/strong&gt;.&lt;br&gt;
 Il permet à chaque salarié de se constituer, tout au long de sa carrière, &lt;strong&gt;un capital ou un complément de retraite&lt;/strong&gt; en vue de son départ de l’entreprise ou de sa retraite.&lt;/p&gt;
 &lt;p&gt;L’objectif principal du produit est de &lt;strong&gt;sécuriser l’avenir financier des employés&lt;/strong&gt; tout en renforçant la politique sociale de l’entreprise.&lt;/p&gt;
-&lt;h2 id=&#34;à-qui-sadresse-ce-produit-&#34;&gt;À qui s’adresse ce produit ?
+&lt;h2 id=&#34;-à-qui-sadresse-ce-produit-&#34;&gt;👨‍👩‍👦 À qui s’adresse ce produit ?
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Aux entreprises&lt;/strong&gt; souhaitant valoriser leur politique sociale et fidéliser leurs collaborateurs.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Aux salariés&lt;/strong&gt; désireux d’anticiper leur retraite ou de constituer une épargne de précaution.&lt;/li&gt;
@@ -99,15 +99,37 @@ Il permet à chaque salarié de se constituer, tout au long de sa carrière, &lt
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;AFG Retraite Complémentaire&lt;/strong&gt; est bien plus qu’un simple produit d’assurance vie.&lt;br&gt;
 C’est un &lt;strong&gt;levier de stabilité et de motivation&lt;/strong&gt; pour les entreprises et une &lt;strong&gt;solution d’épargne durable&lt;/strong&gt; pour les salariés.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Assistance Funéraire – Pour des obsèques dignes et sans charge financière</title>
-        <link>http://localhost:1313/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</link>
+        <link>https://example.com/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-assistance-fun%C3%A9railles-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/afg-assistance-funerailles.jpg" alt="Featured image of post AFG Assistance Funéraire – Pour des obsèques dignes et sans charge financière" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Assistance Funéraire (AAF)&lt;/strong&gt; est un contrat d’assurance-vie conçu pour &lt;strong&gt;soulager les familles des charges financières liées à l’organisation d’obsèques&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</guid>
+        <description>&lt;img src="https://example.com/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/afg-assistance-funerailles.jpg" alt="Featured image of post AFG Assistance Funéraire – Pour des obsèques dignes et sans charge financière" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Assistance Funéraire (AAF)&lt;/strong&gt; est un contrat d’assurance-vie conçu pour &lt;strong&gt;soulager les familles des charges financières liées à l’organisation d’obsèques&lt;/strong&gt;.&lt;br&gt;
 Elle garantit le paiement d’un &lt;strong&gt;capital destiné à financer les prestations funéraires&lt;/strong&gt; selon l’option choisie par le souscripteur, en partenariat avec &lt;strong&gt;Les Arts Funéraires de la Sainte Famille (AFSF)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;C’est une solution de &lt;strong&gt;prévoyance simple, humaine et accessible&lt;/strong&gt;, qui assure le respect et la dignité de vos proches en toutes circonstances.&lt;/p&gt;
 &lt;hr&gt;
@@ -262,11 +284,11 @@ Les tarifs et prestations peuvent être ajustés selon la localisation et les pa
         </item>
         <item>
         <title>AFG Assistance Obsèques</title>
-        <link>http://localhost:1313/p/afg-assistance-obs%C3%A8ques/</link>
+        <link>https://example.com/p/afg-assistance-obs%C3%A8ques/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-assistance-obs%C3%A8ques/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-assistance-obs%C3%A8ques/afg-assistance-obseques.jpg" alt="Featured image of post AFG Assistance Obsèques" /&gt;&lt;p&gt;AFG Assistance Obsèques est une solution d’assurance vie conçue pour soulager le poids financier des obsèques.&lt;br&gt;
+        <guid>https://example.com/p/afg-assistance-obs%C3%A8ques/</guid>
+        <description>&lt;img src="https://example.com/p/afg-assistance-obs%C3%A8ques/afg-assistance-obseques.jpg" alt="Featured image of post AFG Assistance Obsèques" /&gt;&lt;p&gt;AFG Assistance Obsèques est une solution d’assurance vie conçue pour soulager le poids financier des obsèques.&lt;br&gt;
 Elle vous permet de prévoir à l’avance un capital pour faire face sereinement à ces moments difficiles et d’assurer la dignité des cérémonies funéraires de vos proches.&lt;/p&gt;
 &lt;h2 id=&#34;à-qui-sadresse-ce-produit-&#34;&gt;À qui s’adresse ce produit ?
 &lt;/h2&gt;&lt;p&gt;Ce contrat est destiné à toute personne physique âgée de &lt;strong&gt;18 à 69 ans&lt;/strong&gt; au moment de la souscription.&lt;br&gt;
@@ -303,20 +325,37 @@ L’objectif est de couvrir les coûts liés aux funérailles tout en préservan
 &lt;/h2&gt;&lt;p&gt;Prévoir ses obsèques ou celles de ses proches n’est jamais une démarche simple, mais c’est une preuve d’amour et de responsabilité.&lt;br&gt;
 Avec AFG Assistance Obsèques, vous bénéficiez d’un accompagnement complet et d’une prise en charge financière immédiate pour faire face aux imprévus.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;pour-en-savoir-plus&#34;&gt;Pour en savoir plus
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez un conseiller pour simuler votre couverture personnalisée.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG Assurances – Parce que la sérénité se prépare.&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Avenir Enfant – Préparer l’avenir scolaire de votre enfant en toute sérénité</title>
-        <link>http://localhost:1313/p/afg-avenir-enfant-pr%C3%A9parer-lavenir-scolaire-de-votre-enfant-en-toute-s%C3%A9r%C3%A9nit%C3%A9/</link>
+        <link>https://example.com/p/afg-avenir-enfant-pr%C3%A9parer-lavenir-scolaire-de-votre-enfant-en-toute-s%C3%A9r%C3%A9nit%C3%A9/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-avenir-enfant-pr%C3%A9parer-lavenir-scolaire-de-votre-enfant-en-toute-s%C3%A9r%C3%A9nit%C3%A9/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-avenir-enfant-pr%C3%A9parer-lavenir-scolaire-de-votre-enfant-en-toute-s%C3%A9r%C3%A9nit%C3%A9/afg-avenir-enfant.png" alt="Featured image of post AFG Avenir Enfant – Préparer l’avenir scolaire de votre enfant en toute sérénité" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Avenir Enfant (AFG AE)&lt;/strong&gt; est un produit d’assurance-vie proposé par &lt;strong&gt;AFG Assurance&lt;/strong&gt; pour aider les parents, tuteurs et parrains à &lt;strong&gt;préparer l’avenir éducatif de leurs enfants&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-avenir-enfant-pr%C3%A9parer-lavenir-scolaire-de-votre-enfant-en-toute-s%C3%A9r%C3%A9nit%C3%A9/</guid>
+        <description>&lt;img src="https://example.com/p/afg-avenir-enfant-pr%C3%A9parer-lavenir-scolaire-de-votre-enfant-en-toute-s%C3%A9r%C3%A9nit%C3%A9/afg-avenir-enfant.png" alt="Featured image of post AFG Avenir Enfant – Préparer l’avenir scolaire de votre enfant en toute sérénité" /&gt;&lt;h2 id=&#34;présentation-du-produit&#34;&gt;Présentation du produit
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;AFG Avenir Enfant (AFG AE)&lt;/strong&gt; est un produit d’assurance-vie proposé par &lt;strong&gt;AFG Assurance&lt;/strong&gt; pour aider les parents, tuteurs et parrains à &lt;strong&gt;préparer l’avenir éducatif de leurs enfants&lt;/strong&gt;.&lt;br&gt;
 Grâce à un système d’épargne régulier et rentable, ce contrat permet de &lt;strong&gt;constituer un capital destiné à financer les études supérieures&lt;/strong&gt; de l’enfant, tout en assurant une &lt;strong&gt;protection financière&lt;/strong&gt; en cas d’imprévu.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-avenir-enfant-&#34;&gt;👨‍👩‍👧 À qui s’adresse AFG Avenir Enfant ?
@@ -439,11 +478,11 @@ Les taux et modalités peuvent être révisés conformément aux décisions d’
         </item>
         <item>
         <title>AFG AVIGBO – La micro-assurance qui protège vos proches</title>
-        <link>http://localhost:1313/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</link>
+        <link>https://example.com/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/afg-avigbo.png" alt="Featured image of post AFG AVIGBO – La micro-assurance qui protège vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG AVIGBO&lt;/strong&gt; est une solution de micro-assurance simple, accessible et solidaire.&lt;br&gt;
+        <guid>https://example.com/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/</guid>
+        <description>&lt;img src="https://example.com/p/afg-avigbo-la-micro-assurance-qui-prot%C3%A8ge-vos-proches/afg-avigbo.png" alt="Featured image of post AFG AVIGBO – La micro-assurance qui protège vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG AVIGBO&lt;/strong&gt; est une solution de micro-assurance simple, accessible et solidaire.&lt;br&gt;
 Elle vous permet d’assurer la &lt;strong&gt;sécurité financière de vos proches&lt;/strong&gt; en cas de décès ou d’invalidité totale.&lt;br&gt;
 Conçu pour s’adapter à toutes les bourses, ce produit représente une &lt;strong&gt;protection essentielle&lt;/strong&gt; pour toute personne soucieuse du bien-être de sa famille.&lt;/p&gt;
 &lt;hr&gt;
@@ -525,19 +564,36 @@ Grâce à une prime modique, elle assure leur avenir sans déséquilibrer son bu
 &lt;/h2&gt;&lt;p&gt;Parce que la vie est imprévisible, &lt;strong&gt;AFG AVIGBO&lt;/strong&gt; vous aide à anticiper les moments difficiles.&lt;br&gt;
 C’est une solution humaine, économique et efficace, adaptée aux réalités de chaque foyer béninois.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez un &lt;strong&gt;agent agréé&lt;/strong&gt; pour choisir la formule adaptée à votre profil.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AFG AVIGBO&lt;/strong&gt; – L’assurance qui protège, même quand la vie frappe fort.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG BOUCLIER QUIÉTUDE – La protection complète pour vous et vos proches</title>
-        <link>http://localhost:1313/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</link>
+        <link>https://example.com/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/afg-bouclier-quietude.png" alt="Featured image of post AFG BOUCLIER QUIÉTUDE – La protection complète pour vous et vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG Bouclier Quiétude&lt;/strong&gt; est une solution de &lt;strong&gt;protection financière&lt;/strong&gt; pensée pour préserver vos proches face aux imprévus les plus lourds de la vie.&lt;br&gt;
+        <guid>https://example.com/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/</guid>
+        <description>&lt;img src="https://example.com/p/afg-bouclier-qui%C3%A9tude-la-protection-compl%C3%A8te-pour-vous-et-vos-proches/afg-bouclier-quietude.png" alt="Featured image of post AFG BOUCLIER QUIÉTUDE – La protection complète pour vous et vos proches" /&gt;&lt;p&gt;&lt;strong&gt;AFG Bouclier Quiétude&lt;/strong&gt; est une solution de &lt;strong&gt;protection financière&lt;/strong&gt; pensée pour préserver vos proches face aux imprévus les plus lourds de la vie.&lt;br&gt;
 Grâce à ce contrat, vous garantissez le versement d’un capital à vos bénéficiaires en cas de &lt;strong&gt;décès&lt;/strong&gt; ou d’&lt;strong&gt;invalidité absolue et définitive&lt;/strong&gt;, assurant ainsi leur stabilité économique et leur tranquillité d’esprit.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-bouclier-quiétude-&#34;&gt;👥 À qui s’adresse AFG Bouclier Quiétude ?
@@ -651,20 +707,36 @@ Ce contrat s’adapte à tous les profils et offre une couverture complète, mê
 &lt;p&gt;💬 &lt;em&gt;AFG Bouclier Quiétude – Prévoir aujourd’hui, protéger demain.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez votre conseiller pour obtenir une simulation adaptée à vos besoins et à votre budget.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG BOUCLIER QUIÉTUDE&lt;/strong&gt; – &lt;em&gt;La sérénité assurée, pour vous et ceux que vous aimez.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Capi Invest – Le placement sûr, rentable et flexible</title>
-        <link>http://localhost:1313/p/afg-capi-invest-le-placement-s%C3%BBr-rentable-et-flexible/</link>
+        <link>https://example.com/p/afg-capi-invest-le-placement-s%C3%BBr-rentable-et-flexible/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-capi-invest-le-placement-s%C3%BBr-rentable-et-flexible/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-capi-invest-le-placement-s%C3%BBr-rentable-et-flexible/afg-capi-invest.png" alt="Featured image of post AFG Capi Invest – Le placement sûr, rentable et flexible" /&gt;&lt;p&gt;Le contrat &lt;strong&gt;AFG Capi Invest&lt;/strong&gt; est une solution d’investissement en assurance-vie conçue pour allier &lt;strong&gt;rendement, sécurité et souplesse&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-capi-invest-le-placement-s%C3%BBr-rentable-et-flexible/</guid>
+        <description>&lt;img src="https://example.com/p/afg-capi-invest-le-placement-s%C3%BBr-rentable-et-flexible/afg-capi-invest.png" alt="Featured image of post AFG Capi Invest – Le placement sûr, rentable et flexible" /&gt;&lt;p&gt;Le contrat &lt;strong&gt;AFG Capi Invest&lt;/strong&gt; est une solution d’investissement en assurance-vie conçue pour allier &lt;strong&gt;rendement, sécurité et souplesse&lt;/strong&gt;.&lt;br&gt;
 Ce produit vous permet de &lt;strong&gt;faire fructifier votre capital tout en restant libre d’y accéder à tout moment&lt;/strong&gt;, et même de &lt;strong&gt;transmettre votre patrimoine&lt;/strong&gt; en toute simplicité.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-capi-invest-&#34;&gt;💡 À qui s’adresse AFG Capi Invest ?
@@ -798,11 +870,11 @@ Consultez toujours les &lt;strong&gt;conditions générales du contrat&lt;/stron
         </item>
         <item>
         <title>AFG CAPI PRESTIGE – Le placement haut de gamme sécurisé et rentable</title>
-        <link>http://localhost:1313/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</link>
+        <link>https://example.com/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/afg-capi-prestige.png" alt="Featured image of post AFG CAPI PRESTIGE – Le placement haut de gamme sécurisé et rentable" /&gt;&lt;p&gt;&lt;strong&gt;AFG CAPI PRESTIGE&lt;/strong&gt; est la solution idéale pour ceux qui souhaitent placer intelligemment leur argent tout en bénéficiant d’une &lt;strong&gt;rentabilité attractive, d’une disponibilité totale des fonds&lt;/strong&gt; et d’une &lt;strong&gt;protection complète du capital&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/</guid>
+        <description>&lt;img src="https://example.com/p/afg-capi-prestige-le-placement-haut-de-gamme-s%C3%A9curis%C3%A9-et-rentable/afg-capi-prestige.png" alt="Featured image of post AFG CAPI PRESTIGE – Le placement haut de gamme sécurisé et rentable" /&gt;&lt;p&gt;&lt;strong&gt;AFG CAPI PRESTIGE&lt;/strong&gt; est la solution idéale pour ceux qui souhaitent placer intelligemment leur argent tout en bénéficiant d’une &lt;strong&gt;rentabilité attractive, d’une disponibilité totale des fonds&lt;/strong&gt; et d’une &lt;strong&gt;protection complète du capital&lt;/strong&gt;.&lt;br&gt;
 Accessible aussi bien aux &lt;strong&gt;particuliers qu’aux entreprises&lt;/strong&gt;, ce produit combine les atouts d’un placement financier performant et la souplesse d’un contrat d’assurance vie moderne.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-capi-prestige-&#34;&gt;👥 À qui s’adresse AFG CAPI PRESTIGE ?
@@ -899,21 +971,36 @@ Il s’adresse à celles et ceux qui veulent &lt;strong&gt;faire fructifier leur
 &lt;p&gt;💬 &lt;em&gt;AFG CAPI PRESTIGE – L’assurance vie qui transforme votre capital en opportunité de croissance durable.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez un conseiller agréé pour obtenir une simulation personnalisée.&lt;br&gt;
-Vous serez guidé dans le choix du montant, de la durée et des options d’investissement les mieux adaptées à votre profil.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG CAPI PRESTIGE&lt;/strong&gt; – &lt;em&gt;L’épargne de prestige pour des ambitions solides.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir</title>
-        <link>http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</link>
+        <link>https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/afg-dokun-tche.png" alt="Featured image of post AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Dɔkun Tché&lt;/strong&gt; est une solution d’épargne et de prévoyance proposée par &lt;strong&gt;AFG Assurance&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</guid>
+        <description>&lt;img src="https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/afg-dokun-tche.png" alt="Featured image of post AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Dɔkun Tché&lt;/strong&gt; est une solution d’épargne et de prévoyance proposée par &lt;strong&gt;AFG Assurance&lt;/strong&gt;.&lt;br&gt;
 Elle permet à chacun de &lt;strong&gt;constituer un capital personnel&lt;/strong&gt; tout en bénéficiant d’une &lt;strong&gt;protection en cas de décès ou d’invalidité&lt;/strong&gt;.&lt;br&gt;
 Accessible dès 18 ans, elle allie &lt;strong&gt;rentabilité, sécurité et flexibilité&lt;/strong&gt;, pour accompagner vos projets à chaque étape de la vie.&lt;/p&gt;
 &lt;hr&gt;
@@ -1036,11 +1123,11 @@ Les montants et taux mentionnés peuvent varier selon les conditions d’adhési
         </item>
         <item>
         <title>AFG Épargne Plus</title>
-        <link>http://localhost:1313/p/afg-%C3%A9pargne-plus/</link>
+        <link>https://example.com/p/afg-%C3%A9pargne-plus/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-%C3%A9pargne-plus/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-%C3%A9pargne-plus/afg-epargne-plus.png" alt="Featured image of post AFG Épargne Plus" /&gt;&lt;p&gt;&lt;strong&gt;AFG Épargne Plus&lt;/strong&gt; est une solution d’assurance vie simple et flexible, conçue pour vous aider à constituer un capital solide afin de concrétiser vos projets personnels ou professionnels.&lt;br&gt;
+        <guid>https://example.com/p/afg-%C3%A9pargne-plus/</guid>
+        <description>&lt;img src="https://example.com/p/afg-%C3%A9pargne-plus/afg-epargne-plus.png" alt="Featured image of post AFG Épargne Plus" /&gt;&lt;p&gt;&lt;strong&gt;AFG Épargne Plus&lt;/strong&gt; est une solution d’assurance vie simple et flexible, conçue pour vous aider à constituer un capital solide afin de concrétiser vos projets personnels ou professionnels.&lt;br&gt;
 Elle s’adresse à toute personne souhaitant épargner à son rythme, tout en bénéficiant d’un taux de rendement attractif et garanti.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-épargne-plus-&#34;&gt;🧩 À qui s’adresse AFG Épargne Plus ?
@@ -1110,19 +1197,36 @@ L’objectif est de créer un capital à moyen ou long terme, pour financer un p
 &lt;/h2&gt;&lt;p&gt;Parce que chacun mérite de réaliser ses ambitions sans compromettre sa stabilité financière, AFG Épargne Plus vous aide à &lt;strong&gt;faire fructifier votre argent avec sérénité&lt;/strong&gt;, tout en vous protégeant contre les imprévus.&lt;/p&gt;
 &lt;p&gt;C’est &lt;strong&gt;plus qu’une épargne&lt;/strong&gt;, c’est une stratégie de vie — simple, fiable et rentable.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-souscrire-à-afg-épargne-plus&#34;&gt;📞 Souscrire à AFG Épargne Plus
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez un conseiller pour établir votre plan d’épargne personnalisé.&lt;br&gt;
-&lt;strong&gt;AFG Assurances – Investissez dans votre avenir, dès aujourd’hui.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Horizon Retraite – L’assurance pour préparer une retraite sereine</title>
-        <link>http://localhost:1313/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</link>
+        <link>https://example.com/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/afg-horizon-retraite.jpg" alt="Featured image of post AFG Horizon Retraite – L’assurance pour préparer une retraite sereine" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Horizon Retraite&lt;/strong&gt; est un contrat d’assurance-vie conçu pour accompagner chaque travailleur dans la préparation d’une &lt;strong&gt;retraite paisible et financièrement stable&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/</guid>
+        <description>&lt;img src="https://example.com/p/afg-horizon-retraite-lassurance-pour-pr%C3%A9parer-une-retraite-sereine/afg-horizon-retraite.jpg" alt="Featured image of post AFG Horizon Retraite – L’assurance pour préparer une retraite sereine" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Horizon Retraite&lt;/strong&gt; est un contrat d’assurance-vie conçu pour accompagner chaque travailleur dans la préparation d’une &lt;strong&gt;retraite paisible et financièrement stable&lt;/strong&gt;.&lt;br&gt;
 Elle permet de constituer progressivement un capital ou un revenu complémentaire, tout en offrant des garanties de sécurité et de flexibilité adaptées à la réalité béninoise.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-horizon-retraite-&#34;&gt;🎯 À qui s’adresse AFG Horizon Retraite ?
@@ -1233,11 +1337,11 @@ Les conditions définitives sont celles figurant dans le &lt;strong&gt;contrat s
         </item>
         <item>
         <title>AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière</title>
-        <link>http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</link>
+        <link>https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/afg-ifc.png" alt="Featured image of post AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière" /&gt;&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; est une solution de financement stratégique proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;, permettant aux entreprises de maîtriser et d’anticiper leurs engagements sociaux liés aux départs à la retraite, aux licenciements et aux décès de leurs employés.&lt;br&gt;
+        <guid>https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/</guid>
+        <description>&lt;img src="https://example.com/p/afg-ifc-anticiper-et-financer-sereinement-les-indemnit%C3%A9s-de-fin-de-carri%C3%A8re/afg-ifc.png" alt="Featured image of post AFG IFC – Anticiper et financer sereinement les indemnités de fin de carrière" /&gt;&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; est une solution de financement stratégique proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;, permettant aux entreprises de maîtriser et d’anticiper leurs engagements sociaux liés aux départs à la retraite, aux licenciements et aux décès de leurs employés.&lt;br&gt;
 C’est un outil essentiel pour une &lt;strong&gt;gestion budgétaire prévisible, optimisée et conforme à la législation&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-ifc-&#34;&gt;👥 À qui s’adresse AFG IFC ?
@@ -1321,19 +1425,36 @@ Résultat : une gestion saine, prévisible et conforme à la loi.&lt;/p&gt;
 &lt;/h2&gt;&lt;p&gt;Parce qu’une entreprise solide se construit sur une &lt;strong&gt;gestion maîtrisée de ses ressources humaines et financières&lt;/strong&gt;.&lt;br&gt;
 Avec &lt;strong&gt;AFG IFC&lt;/strong&gt;, vous transformez une contrainte légale en un &lt;strong&gt;levier de performance économique&lt;/strong&gt; et de &lt;strong&gt;paix sociale durable&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Contactez &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou votre &lt;strong&gt;conseiller entreprise&lt;/strong&gt; pour réaliser une étude personnalisée de vos engagements sociaux.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;AFG IFC&lt;/strong&gt; – L’assurance de vos engagements, la sérénité de votre avenir d’entreprise.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Prévoyance Familiale</title>
-        <link>http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/</link>
+        <link>https://example.com/p/afg-pr%C3%A9voyance-familiale/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-pr%C3%A9voyance-familiale/afg-prevoyance-familiale.png" alt="Featured image of post AFG Prévoyance Familiale" /&gt;&lt;p&gt;&lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; est une solution d’assurance vie pensée pour protéger vos proches face aux imprévus de la vie.&lt;br&gt;
+        <guid>https://example.com/p/afg-pr%C3%A9voyance-familiale/</guid>
+        <description>&lt;img src="https://example.com/p/afg-pr%C3%A9voyance-familiale/afg-prevoyance-familiale.png" alt="Featured image of post AFG Prévoyance Familiale" /&gt;&lt;p&gt;&lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; est une solution d’assurance vie pensée pour protéger vos proches face aux imprévus de la vie.&lt;br&gt;
 Elle garantit le versement d’un &lt;strong&gt;capital en cas de décès&lt;/strong&gt; ou d’&lt;strong&gt;invalidité absolue et définitive&lt;/strong&gt;, permettant ainsi de préserver la stabilité financière de la famille ou des bénéficiaires désignés.&lt;br&gt;
 Ce contrat s’adresse aussi bien aux particuliers qu’aux entreprises souhaitant offrir une couverture sociale à leurs employés.&lt;/p&gt;
 &lt;hr&gt;
@@ -1444,19 +1565,36 @@ Ce contrat s’adresse aussi bien aux particuliers qu’aux entreprises souhaita
 &lt;/h2&gt;&lt;p&gt;Parce que les imprévus ne préviennent jamais, &lt;strong&gt;AFG Prévoyance Familiale&lt;/strong&gt; vous assure la tranquillité d’esprit en offrant à vos proches la sécurité financière nécessaire pour continuer à vivre dignement.&lt;br&gt;
 C’est une solution à la fois &lt;strong&gt;humaine, simple et accessible&lt;/strong&gt;, pensée pour le &lt;strong&gt;bien-être des familles et la responsabilité sociale des entreprises&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez un conseiller agréé pour établir votre plan de protection personnalisé.&lt;br&gt;
-&lt;strong&gt;AFG Assurances – Prévoir, c’est protéger.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Sécurité Famille – Protégez vos proches avec dignité et sérénité</title>
-        <link>http://localhost:1313/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</link>
+        <link>https://example.com/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/afg-securite-famille.png" alt="Featured image of post AFG Sécurité Famille – Protégez vos proches avec dignité et sérénité" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Sécurité Famille (AFG SF)&lt;/strong&gt; est un contrat conçu pour &lt;strong&gt;accompagner les familles dans les moments les plus délicats&lt;/strong&gt; : la perte d’un parent ou d’un proche.&lt;br&gt;
+        <guid>https://example.com/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</guid>
+        <description>&lt;img src="https://example.com/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/afg-securite-famille.png" alt="Featured image of post AFG Sécurité Famille – Protégez vos proches avec dignité et sérénité" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Sécurité Famille (AFG SF)&lt;/strong&gt; est un contrat conçu pour &lt;strong&gt;accompagner les familles dans les moments les plus délicats&lt;/strong&gt; : la perte d’un parent ou d’un proche.&lt;br&gt;
 Ce produit permet de bénéficier d’une &lt;strong&gt;assistance financière immédiate pour les frais d’obsèques&lt;/strong&gt;, soulageant ainsi les proches des contraintes financières dans ces circonstances douloureuses.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-sécurité-famille-&#34;&gt;👪 À qui s’adresse AFG Sécurité Famille ?
@@ -1600,11 +1738,11 @@ Veuillez vous référer aux documents officiels avant toute souscription.&lt;/p&
         </item>
         <item>
         <title>AFG Sérénité – Une retraite paisible et protégée</title>
-        <link>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
+        <link>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
+        <guid>https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/</guid>
+        <description>&lt;img src="https://example.com/p/afg-s%C3%A9r%C3%A9nit%C3%A9-une-retraite-paisible-et-prot%C3%A9g%C3%A9e/afg-serenite.png" alt="Featured image of post AFG Sérénité – Une retraite paisible et protégée" /&gt;&lt;p&gt;&lt;strong&gt;AFG Sérénité (AS)&lt;/strong&gt; est une assurance vie spécialement conçue pour vous offrir une &lt;strong&gt;retraite paisible&lt;/strong&gt;, à l’abri du besoin et des imprévus.&lt;br&gt;
 Elle allie &lt;strong&gt;épargne progressive&lt;/strong&gt; et &lt;strong&gt;couverture sanitaire&lt;/strong&gt; afin de vous garantir sécurité, stabilité et confort au moment où vous en aurez le plus besoin.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-sérénité-&#34;&gt;👥 À qui s’adresse AFG Sérénité ?
@@ -1687,19 +1825,36 @@ Elle allie &lt;strong&gt;épargne progressive&lt;/strong&gt; et &lt;strong&gt;co
 Ce produit vous permet d’&lt;strong&gt;anticiper les besoins médicaux&lt;/strong&gt;, tout en vous assurant des ressources financières stables.&lt;br&gt;
 Il incarne la philosophie d’&lt;strong&gt;AFG Assurances&lt;/strong&gt; : &lt;em&gt;prévoir pour mieux vivre.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans l’une de nos agences &lt;strong&gt;AFG Assurances&lt;/strong&gt;, ou contactez un &lt;strong&gt;conseiller agréé&lt;/strong&gt; pour établir votre plan de retraite sur mesure.&lt;br&gt;
-&lt;strong&gt;AFG Sérénité&lt;/strong&gt; – Parce qu’une retraite paisible, ça se prépare aujourd’hui.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment</title>
-        <link>http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</link>
+        <link>https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/afg-tadagbe.png" alt="Featured image of post AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment" /&gt;&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; est une formule de micro assurance innovante proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/</guid>
+        <description>&lt;img src="https://example.com/p/afg-tadagbe-l%C3%A9pargne-qui-peut-changer-votre-vie-%C3%A0-tout-moment/afg-tadagbe.png" alt="Featured image of post AFG TADAGBE – L’épargne qui peut changer votre vie à tout moment" /&gt;&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; est une formule de micro assurance innovante proposée par &lt;strong&gt;AFG Assurances&lt;/strong&gt;.&lt;br&gt;
 Elle permet à chaque adhérent de se constituer une &lt;strong&gt;épargne sûre et rentable&lt;/strong&gt;, tout en bénéficiant d’une &lt;strong&gt;chance unique d’obtenir son capital par tirage au sort avant la fin du contrat&lt;/strong&gt;.&lt;br&gt;
 C’est une solution à la fois &lt;strong&gt;solidaire, sécurisée et motivante&lt;/strong&gt; pour tous ceux qui souhaitent transformer leurs revenus réguliers en un véritable projet d’avenir.&lt;/p&gt;
 &lt;hr&gt;
@@ -1787,21 +1942,36 @@ Avec &lt;strong&gt;AFG TADAGBE&lt;/strong&gt;, vous bâtissez votre avenir tout 
 &lt;p&gt;🎯 &lt;em&gt;AFG TADAGBE – L’assurance épargne qui allie chance, sécurité et performance.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou auprès d’un partenaire agréé pour adhérer au programme &lt;strong&gt;AFG TADAGBE&lt;/strong&gt;.&lt;br&gt;
-Vous serez accompagné dans la &lt;strong&gt;détermination du montant de vos cotisations&lt;/strong&gt; et recevrez &lt;strong&gt;votre attestation d’adhésion&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG TADAGBE&lt;/strong&gt; – Parce que chaque franc épargné est une opportunité de construire votre avenir… ou de le gagner plus tôt.&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG VIGNINOU – La garantie scolaire pour un avenir sans rupture</title>
-        <link>http://localhost:1313/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</link>
+        <link>https://example.com/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/afg-vigninou.png" alt="Featured image of post AFG VIGNINOU – La garantie scolaire pour un avenir sans rupture" /&gt;&lt;p&gt;&lt;strong&gt;AFG Vigninou&lt;/strong&gt; est une offre de &lt;strong&gt;micro-assurance&lt;/strong&gt; conçue pour protéger ce qu’il y a de plus précieux : l’avenir de nos enfants.&lt;br&gt;
+        <guid>https://example.com/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/</guid>
+        <description>&lt;img src="https://example.com/p/afg-vigninou-la-garantie-scolaire-pour-un-avenir-sans-rupture/afg-vigninou.png" alt="Featured image of post AFG VIGNINOU – La garantie scolaire pour un avenir sans rupture" /&gt;&lt;p&gt;&lt;strong&gt;AFG Vigninou&lt;/strong&gt; est une offre de &lt;strong&gt;micro-assurance&lt;/strong&gt; conçue pour protéger ce qu’il y a de plus précieux : l’avenir de nos enfants.&lt;br&gt;
 Ce contrat d’assurance vie individuel garantit le paiement des &lt;strong&gt;frais de scolarité&lt;/strong&gt; en cas de décès ou d’invalidité totale du parent ou tuteur, afin que la scolarité de l’enfant se poursuive sans interruption.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-vigninou-&#34;&gt;🎓 À qui s’adresse AFG Vigninou ?
@@ -1907,12 +2077,28 @@ Ainsi, les enfants ne sont pas exclus et continuent leurs études dans la dignit
 &lt;p&gt;💬 &lt;em&gt;AFG Vigninou – Parce que l’éducation doit continuer, quoiqu’il arrive.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-comment-souscrire-&#34;&gt;📞 Comment souscrire ?
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez votre conseiller pour obtenir une &lt;strong&gt;simulation personnalisée&lt;/strong&gt; selon la scolarité de votre enfant.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG VIGNINOU&lt;/strong&gt; – &lt;em&gt;L’assurance d’un avenir éducatif protégé et sans rupture.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         
     </channel>

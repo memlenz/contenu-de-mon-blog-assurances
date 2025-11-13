@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Obsèques on ComparAssur</title>
-        <link>http://localhost:1313/tags/obs%C3%A8ques/</link>
+        <link>https://example.com/tags/obs%C3%A8ques/</link>
         <description>Recent content in Obsèques on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/obs%C3%A8ques/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/obs%C3%A8ques/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Assistance Funéraire – Pour des obsèques dignes et sans charge financière</title>
-        <link>http://localhost:1313/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</link>
+        <link>https://example.com/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-assistance-fun%C3%A9railles-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/afg-assistance-funerailles.jpg" alt="Featured image of post AFG Assistance Funéraire – Pour des obsèques dignes et sans charge financière" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Assistance Funéraire (AAF)&lt;/strong&gt; est un contrat d’assurance-vie conçu pour &lt;strong&gt;soulager les familles des charges financières liées à l’organisation d’obsèques&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/</guid>
+        <description>&lt;img src="https://example.com/p/afg-assistance-fun%C3%A9raire-pour-des-obs%C3%A8ques-dignes-et-sans-charge-financi%C3%A8re/afg-assistance-funerailles.jpg" alt="Featured image of post AFG Assistance Funéraire – Pour des obsèques dignes et sans charge financière" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Assistance Funéraire (AAF)&lt;/strong&gt; est un contrat d’assurance-vie conçu pour &lt;strong&gt;soulager les familles des charges financières liées à l’organisation d’obsèques&lt;/strong&gt;.&lt;br&gt;
 Elle garantit le paiement d’un &lt;strong&gt;capital destiné à financer les prestations funéraires&lt;/strong&gt; selon l’option choisie par le souscripteur, en partenariat avec &lt;strong&gt;Les Arts Funéraires de la Sainte Famille (AFSF)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;C’est une solution de &lt;strong&gt;prévoyance simple, humaine et accessible&lt;/strong&gt;, qui assure le respect et la dignité de vos proches en toutes circonstances.&lt;/p&gt;
 &lt;hr&gt;
@@ -168,11 +168,11 @@ Les tarifs et prestations peuvent être ajustés selon la localisation et les pa
         </item>
         <item>
         <title>AFG Assistance Obsèques</title>
-        <link>http://localhost:1313/p/afg-assistance-obs%C3%A8ques/</link>
+        <link>https://example.com/p/afg-assistance-obs%C3%A8ques/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-assistance-obs%C3%A8ques/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-assistance-obs%C3%A8ques/afg-assistance-obseques.jpg" alt="Featured image of post AFG Assistance Obsèques" /&gt;&lt;p&gt;AFG Assistance Obsèques est une solution d’assurance vie conçue pour soulager le poids financier des obsèques.&lt;br&gt;
+        <guid>https://example.com/p/afg-assistance-obs%C3%A8ques/</guid>
+        <description>&lt;img src="https://example.com/p/afg-assistance-obs%C3%A8ques/afg-assistance-obseques.jpg" alt="Featured image of post AFG Assistance Obsèques" /&gt;&lt;p&gt;AFG Assistance Obsèques est une solution d’assurance vie conçue pour soulager le poids financier des obsèques.&lt;br&gt;
 Elle vous permet de prévoir à l’avance un capital pour faire face sereinement à ces moments difficiles et d’assurer la dignité des cérémonies funéraires de vos proches.&lt;/p&gt;
 &lt;h2 id=&#34;à-qui-sadresse-ce-produit-&#34;&gt;À qui s’adresse ce produit ?
 &lt;/h2&gt;&lt;p&gt;Ce contrat est destiné à toute personne physique âgée de &lt;strong&gt;18 à 69 ans&lt;/strong&gt; au moment de la souscription.&lt;br&gt;
@@ -209,20 +209,36 @@ L’objectif est de couvrir les coûts liés aux funérailles tout en préservan
 &lt;/h2&gt;&lt;p&gt;Prévoir ses obsèques ou celles de ses proches n’est jamais une démarche simple, mais c’est une preuve d’amour et de responsabilité.&lt;br&gt;
 Avec AFG Assistance Obsèques, vous bénéficiez d’un accompagnement complet et d’une prise en charge financière immédiate pour faire face aux imprévus.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;pour-en-savoir-plus&#34;&gt;Pour en savoir plus
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Rendez-vous dans une agence &lt;strong&gt;AFG Assurances&lt;/strong&gt; ou contactez un conseiller pour simuler votre couverture personnalisée.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;-pourquoi-choisir-afg-assurance-&#34;&gt;🧾 Pourquoi choisir AFG Assurance ?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Compagnie &lt;strong&gt;agréée par la CIMA&lt;/strong&gt; et &lt;strong&gt;reconnue pour sa fiabilité&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Produits conçus spécifiquement pour les besoins des familles béninoises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparence&lt;/strong&gt;, &lt;strong&gt;rentabilité&lt;/strong&gt;, et &lt;strong&gt;sécurité des fonds&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Accompagnement personnalisé par des conseillers expérimentés.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;AFG Assurances – Parce que la sérénité se prépare.&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;-souscription-et-contact&#34;&gt;📞 Souscription et contact
+&lt;/h2&gt;&lt;p&gt;Pour souscrire au produit &lt;strong&gt;AFG Avenir Enfant&lt;/strong&gt;, rendez-vous dans une agence AFG ou contactez directement un conseiller.&lt;/p&gt;
+&lt;p&gt;📍 &lt;strong&gt;Adresse&lt;/strong&gt; : AFG Assurance, Cotonou, République du Bénin&lt;br&gt;
+📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;mailto:contact@afgassurance.bj&#34; &gt;contact@afgassurance.bj&lt;/a&gt;&lt;br&gt;
+🌐 &lt;strong&gt;Site web&lt;/strong&gt; : &lt;a class=&#34;link&#34; href=&#34;https://afgassurance.bj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://afgassurance.bj&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-avertissement&#34;&gt;⚠️ Avertissement
+&lt;/h2&gt;&lt;p&gt;Les informations ci-dessus sont fournies à titre &lt;strong&gt;informatif et comparatif&lt;/strong&gt;.&lt;br&gt;
+Elles ne remplacent pas les conditions générales du contrat.&lt;br&gt;
+Les taux et modalités peuvent être révisés conformément aux décisions d’AFG Assurance et à la réglementation en vigueur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;ComparAssur&lt;/strong&gt; – votre conseiller indépendant pour comparer, comprendre et choisir la meilleure assurance au Bénin.&lt;/p&gt;
+&lt;hr&gt;</description>
         </item>
         <item>
         <title>AFG Sécurité Famille – Protégez vos proches avec dignité et sérénité</title>
-        <link>http://localhost:1313/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</link>
+        <link>https://example.com/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/afg-securite-famille.png" alt="Featured image of post AFG Sécurité Famille – Protégez vos proches avec dignité et sérénité" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Sécurité Famille (AFG SF)&lt;/strong&gt; est un contrat conçu pour &lt;strong&gt;accompagner les familles dans les moments les plus délicats&lt;/strong&gt; : la perte d’un parent ou d’un proche.&lt;br&gt;
+        <guid>https://example.com/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/</guid>
+        <description>&lt;img src="https://example.com/p/afg-s%C3%A9curit%C3%A9-famille-prot%C3%A9gez-vos-proches-avec-dignit%C3%A9-et-s%C3%A9r%C3%A9nit%C3%A9/afg-securite-famille.png" alt="Featured image of post AFG Sécurité Famille – Protégez vos proches avec dignité et sérénité" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Sécurité Famille (AFG SF)&lt;/strong&gt; est un contrat conçu pour &lt;strong&gt;accompagner les familles dans les moments les plus délicats&lt;/strong&gt; : la perte d’un parent ou d’un proche.&lt;br&gt;
 Ce produit permet de bénéficier d’une &lt;strong&gt;assistance financière immédiate pour les frais d’obsèques&lt;/strong&gt;, soulageant ainsi les proches des contraintes financières dans ces circonstances douloureuses.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-à-qui-sadresse-afg-sécurité-famille-&#34;&gt;👪 À qui s’adresse AFG Sécurité Famille ?

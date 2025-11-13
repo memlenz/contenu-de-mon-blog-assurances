@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Assurance-Vie on ComparAssur</title>
-        <link>http://localhost:1313/categories/assurance-vie/</link>
+        <link>https://example.com/categories/assurance-vie/</link>
         <description>Recent content in Assurance-Vie on ComparAssur</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <copyright>Châ-Fine Ayédoun ADEBI</copyright>
-        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/assurance-vie/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/assurance-vie/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir</title>
-        <link>http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</link>
+        <link>https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</guid>
-        <description>&lt;img src="http://localhost:1313/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/afg-dokun-tche.png" alt="Featured image of post AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Dɔkun Tché&lt;/strong&gt; est une solution d’épargne et de prévoyance proposée par &lt;strong&gt;AFG Assurance&lt;/strong&gt;.&lt;br&gt;
+        <guid>https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/</guid>
+        <description>&lt;img src="https://example.com/p/afg-d%C9%94kun-tch%C3%A9-lassurance-%C3%A9pargne-pour-vos-projets-et-votre-avenir/afg-dokun-tche.png" alt="Featured image of post AFG Dɔkun Tché – L’assurance épargne pour vos projets et votre avenir" /&gt;&lt;p&gt;L’assurance &lt;strong&gt;AFG Dɔkun Tché&lt;/strong&gt; est une solution d’épargne et de prévoyance proposée par &lt;strong&gt;AFG Assurance&lt;/strong&gt;.&lt;br&gt;
 Elle permet à chacun de &lt;strong&gt;constituer un capital personnel&lt;/strong&gt; tout en bénéficiant d’une &lt;strong&gt;protection en cas de décès ou d’invalidité&lt;/strong&gt;.&lt;br&gt;
 Accessible dès 18 ans, elle allie &lt;strong&gt;rentabilité, sécurité et flexibilité&lt;/strong&gt;, pour accompagner vos projets à chaque étape de la vie.&lt;/p&gt;
 &lt;hr&gt;
